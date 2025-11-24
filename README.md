@@ -4,7 +4,12 @@ I'm a creative technologist passionate about the intersection of **AI** and **pu
 
 ## 🚀 What I'm Working On
 
-### 🛟 ResQVision
+### 📕 Consulting 
+Various small-medium SaaS consulting including:
+- **Front-End imporvements**
+- **Tech-Business recommendations**
+
+### 🛟 ResQVision (Past Project)
 An AI-driven safety suite including:
 - **Edge AI Safety Systems** for real-time incident detection
 - **Rip Current Detection** using computer vision
